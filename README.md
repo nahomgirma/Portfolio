@@ -1,5 +1,6 @@
+View website 
 https://nahomgirma.github.io/Portfolio/
 
-Note to Readers
-To the viewer of this about file, feel free to download and edit the site to your like. 
+Note to Readers : 
+Feel free to download or clone this portfolio and edit to your preferences
 Cheers!
